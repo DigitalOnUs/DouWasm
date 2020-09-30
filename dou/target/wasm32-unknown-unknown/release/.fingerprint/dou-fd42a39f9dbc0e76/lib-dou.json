@@ -1,0 +1,1 @@
+{"rustc":13783575115907918084,"features":"[]","target":7754722849268349745,"profile":4339006351771724982,"path":10872709659218687626,"deps":[[4865950802260201545,"wasm_bindgen",false,8598318650868063552]],"local":[{"CheckDepInfo":{"dep_info":"wasm32-unknown-unknown/release/.fingerprint/dou-fd42a39f9dbc0e76/dep-lib-dou"}}],"rustflags":[],"metadata":3744863775388598192,"config":0}
